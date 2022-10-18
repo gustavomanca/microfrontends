@@ -1,5 +1,10 @@
 {
   "name": "container",
+  "author": {
+    "email": "gustavo.mancaa@gmail.com",
+    "name": "Gustavo Manca",
+    "url": "https://linkedin.com/in/gustavomanca"
+  },
   "version": "1.0.0",
   "scripts": {
     "start": "webpack serve --config config/webpack.dev.js",
